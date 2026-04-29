@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /#privacy
+Disallow: /#terms
+Disallow: /#beta
+Disallow: /#android
+
+Sitemap: https://symbioflat.com/sitemap.xml
